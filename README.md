@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WorkUrvil
-- 👀 I’m interested in Frond end and Cybersecurity  
+- 👀 I’m interested in Front end and Cybersecurity  
 - 🌱 I’m currently learning AI and Cybersecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
